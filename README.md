@@ -4,13 +4,18 @@ A low contrast theme that conveys a feeling of summer and seaside. The most prev
 
 *Playa* comes in standalone light and dark variants (see further info below).
 
-## Screenshot
+## Screenshots
 
-![playa dark screenshot](https://raw.githubusercontent.com/protesilaos/prot16/master/playa/img/playa_dark_sample.png)
+![playa dark screenshot html](https://raw.githubusercontent.com/protesilaos/prot16/master/playa/img/playa_dark_html.png)
 
-*The font is [Iosevka term slab](https://github.com/be5invis/Iosevka)*.  
-*JavaScript demo is source code of [prismjs](http://prismjs.com/)*  
-*The UI is my experimental fork of the default One Dark*.
+![playa dark screenshot scss](https://raw.githubusercontent.com/protesilaos/prot16/master/playa/img/playa_dark_scss.png)
+
+![playa dark screenshot js](https://raw.githubusercontent.com/protesilaos/prot16/master/playa/img/playa_dark_js.png)
+
+![playa dark screenshot md](https://raw.githubusercontent.com/protesilaos/prot16/master/playa/img/playa_dark_md.png)
+
+*The font is [Iosevka term](https://github.com/be5invis/Iosevka)*.  
+*The UI is [Atom Material](https://github.com/atom-material/atom-material-ui)*.
 
 ## Download
 
